@@ -75,11 +75,11 @@ The `/downloadCV` command allows you to download the bot owner's resume.
 
 ### Leetcode Command `/leetcode` <a name="leetcode-command"></a>
 
-Provides a link to the bot owner's Leetcode profile for coding enthusiasts.
+Provides a link to my Leetcode profile.
 
 ### Portfolio Command `/portfolio` <a name="portfolio-command"></a>
 
-Directs you to the bot owner's portfolio page.
+Directs you to my portfolio page.
 
 ### WSB Command `/wsb` <a name="wsb-command"></a>
 
@@ -87,15 +87,15 @@ Retrieves real-time stock data for specific stocks popular on the WallStreetBets
 
 ---
 
-By following these instructions, you can make full use of the Telegram Bot. If you have any further questions or would like to collaborate on new features, feel free to reach out to the bot owner via the `/contact` command.
+By following these instructions, you can make full use of the Telegram Bot. If you have any further questions or would like to collaborate on new features, feel free to reach out to via the `/contact` command.
 
 ---
 ### ☕ Let's Connect
 <a href="https://twitter.com/dixon1099"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter Account" width="50"/></a>
-<a href ="https://wa.me/+918838882908"><img src="whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
+<a href ="https://wa.me/+918838882908"><img src="https://github.com/dixon66/dixon66/blob/main/whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
 <a href="https://www.instagram.com/dixon.1099/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="35"/></a>
-<a href ="https://t.me/tele_one_bot"><img src="Telegram_logo.svg" alt="Telegram Account" width="35"/></a>
-<a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45"/></a>
+<a href ="https://t.me/tele_one_bot"><img src="https://github.com/dixon66/dixon66/blob/main/Telegram_logo.svg" alt="Telegram Account" width="35"/></a>
+<a href="https://www.leetcode.com/dixon_n"><img src="https://github.com/dixon66/dixon66/blob/main/leetcode.jpg" alt="dixon_n" width="45"/></a>
 <a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
 <a href="https://hashnode.com/@dixon55"><img src="https://www.cdnlogo.com/logos/h/71/hashnode.svg" width="35"></a>
 #
