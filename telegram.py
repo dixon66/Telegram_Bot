@@ -94,7 +94,7 @@ Spotify Technology S.A. (SPOT)
 Comcast Corporation (CMCSA)
 Activision Blizzard, Inc. (ATVI)
 
-and more in real time
+more... in real time
     """)
 
 # Function to handle /Git command
